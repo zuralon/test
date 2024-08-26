@@ -1,3 +1,11 @@
+#!/bin/bash
+#
+# GLPI install script
+#
+# Author: jr0w3
+# Version: 1.1.1
+#
+
 function warn(){
     echo -e '\e[31m'$1'\e[0m';
 }
